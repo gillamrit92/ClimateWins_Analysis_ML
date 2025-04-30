@@ -11,9 +11,9 @@
 
 ### The data is organized in the following directory structure:
 
-### Data Sets/ – Contains all raw data files for centralized access
-### Supervised/ – Subdirectory containing data prepared for supervised learning models
-### Unsupervised/ – Subdirectory containing data prepared for unsupervised learning models
+### Data Sets – Contains all raw data files for centralized access
+### Supervised – Subdirectory containing data prepared for supervised learning models
+### Unsupervised – Subdirectory containing data prepared for unsupervised learning models
 # Project Structure
 ### Data/: Contains datasets used for training and validation.
 ### Scripts/: Jupyter notebooks for each task, showcasing EDA, model development, and evaluation.
